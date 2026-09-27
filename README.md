@@ -6,7 +6,7 @@
 
 *APK-only release mirror · Auto-update enabled · SHA-256 verified*
 
-[![Latest Release](https://img.shields.io/badge/latest-v1.5.13-0A8674?style=flat-square&logo=github)](https://github.com/musman5911/just_for_appp_releases/releases/latest)
+[![Latest Release](https://img.shields.io/badge/latest-v1.6.1-0A8674?style=flat-square&logo=github)](https://github.com/musman5911/just_for_appp_releases/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Android%2010+-3DDC84?style=flat-square&logo=android)](https://developer.android.com/about/versions/android-10)
 [![License](https://img.shields.io/badge/license-Private%20(Owner%20Use)-555?style=flat-square)](#support)
 
@@ -69,6 +69,7 @@ The certificate fingerprint **must** match the SHA-256 above. If it doesn't, **d
 
 | Version | Date | Highlights |
 |---|---|---|
+| **v1.6.1** | 2026-09-27 | Auto-bump README for v1.6.1 |
 | **v1.6.0** | 2026-09-27 | 🔥 **Major:** Nonce removed from signed requests (must deploy Worker together) · Section dropdown fix · Devices tab visibility fix · NSD pairing · Pair-restore by code |
 | v1.5.13 | 2026-09-27 | Devices tab blank-screen fix (SwipeRefreshLayout) · bulletproof status cards · dark-mode color collision fix |
 | v1.5.12 | 2026-09-27 | Section dropdown toggle fix (was hiding entire card permanently) |
